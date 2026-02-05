@@ -1,3 +1,4 @@
+package Pertemuan1;
 /*Nama: Faliha Imtinan
 NIM: D1041241004
 Hari/Tanggal: Kami, 5 Januari 2025
