@@ -1,3 +1,8 @@
+/*
+NIM: D1041241004
+Nama: Faliha Imtinan
+p022WorkingVariable
+*/
 package Pertemuan4;
 
 public class p041NamingConvention{
