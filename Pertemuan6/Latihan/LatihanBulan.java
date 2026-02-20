@@ -1,3 +1,8 @@
+/*
+NIM: D1041241004
+Nama: Faliha Imtinan
+LatihanBulan
+*/
 package Pertemuan6.Latihan;
 
 public class LatihanBulan {
