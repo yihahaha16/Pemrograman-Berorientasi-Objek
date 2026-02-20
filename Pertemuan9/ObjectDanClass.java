@@ -1,7 +1,7 @@
 /*
 NIM: D1041241004
 Nama: Faliha Imtinan
-p022WorkingVariable
+ObjectDanClass
 */
 package Pertemuan9;
 
