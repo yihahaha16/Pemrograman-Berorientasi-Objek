@@ -12,7 +12,7 @@ public class LatihanValidasi {
         boolean isTrue = true;
         do { 
             System.out.println("=== VALIDASI NILAI UJIAN ===");
-            System.out.println("Percobaan input: ");
+            System.out.print("Percobaan input: ");
             int nilai = input.nextInt();
             if(nilai >= 0 && nilai <= 100){
                 System.out.println("[OK] Nilai valid: "+nilai);
