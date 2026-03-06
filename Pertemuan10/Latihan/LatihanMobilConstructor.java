@@ -1,3 +1,8 @@
+/*
+NIM: D1041241004
+Nama: Faliha Imtinan
+LatihanMobilConstructor
+*/
 package Pertemuan10.Latihan;
 
 class Mobil{

@@ -1,3 +1,8 @@
+/*
+NIM: D1041241004
+Nama: Faliha Imtinan
+LatihanBukuConstructor
+*/
 package Pertemuan10.Latihan;
 
 class Buku{
